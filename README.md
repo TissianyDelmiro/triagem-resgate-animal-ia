@@ -5,6 +5,8 @@
 **Projeto Final, Curso de IA Generativa**
 **Stack:** n8n · Google Forms · Google Sheets · Gmail · Gemini API · OpenAI API
 
+https://github.com/TissianyDelmiro/triagem-resgate-animal-ia/blob/main/evidencias/Video%20Project%204.mp4
+
 ---
 
 ## Sumário
